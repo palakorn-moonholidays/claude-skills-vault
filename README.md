@@ -28,7 +28,7 @@ A curated collection of skills, commands, and MCP servers for Claude Code.
 | **md** | Markdown validation and processing |
 | **pdf** | PDF form filling, extraction, and validation |
 | **pptx** | PowerPoint manipulation and HTML-to-PPTX |
-| **toon** | Image-to-cartoon conversion using OpenCV |
+| **toon** | Token-Oriented Object Notation - compact, schema-aware data format for LLM prompts |
 | **xlsx** | Excel spreadsheet handling and formula recalculation |
 
 ## Commands

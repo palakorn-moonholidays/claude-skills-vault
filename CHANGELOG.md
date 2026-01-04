@@ -8,7 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
-- **commands**: Add `/add-mcp` command integrating mcp-builder, md, and token-formatter skills
 - **mcp-servers**: Add 35 MCP server configurations and references
   - Official active: everything, fetch, filesystem, memory, sequential-thinking, time
   - Official archived: git, slack, sqlite
@@ -19,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 - **commands**: Add explicit invocation guards to commit.md and push.md (prevent auto-execution)
+- **commands**: Remove add-mcp command
 - **readme**: Add Contributing section
 - **readme**: Update with comprehensive MCP server documentation (35 servers, SDK references)
 

@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+
+### Changed
+
+### Fixed
+
+## [1.0.1] - 2026-01-04
+
+### Added
 - **commands**: Add push command with uncommitted changes check and changelog versioning
 - **skills**: Add mcp-builder skill with Python/Node reference docs and evaluation scripts
 - **skills**: Add toon skill for token-optimized JSON notation (~40% token reduction)
@@ -25,8 +33,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - **skills**: Remove redundant cheatsheet.md from token-formatter (content in SKILL.md)
 - Update .gitignore with additional patterns
 - Update README.md
-
-### Fixed
 
 ## [1.0.0] - 2026-01-04
 

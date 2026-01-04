@@ -13,6 +13,7 @@ A curated collection of skills, commands, and MCP servers for Claude Code.
 | **fastapi-senior-dev** | Senior Python Backend Engineer skill for production-ready FastAPI |
 | **gemini-cli** | Run Gemini CLI for AI queries and comparisons |
 | **mcp-builder** | Guide for creating high-quality MCP servers (Python/TypeScript) |
+| **pep8** | Python 3.11+ style enforcement with PEP 8, type hints, and check scripts |
 | **pydantic-model** | Pydantic v2 model patterns for validation and MongoDB |
 | **skill-creator** | Guide for creating Claude Code skills |
 | **system-architect** | System architecture patterns and design guidance |

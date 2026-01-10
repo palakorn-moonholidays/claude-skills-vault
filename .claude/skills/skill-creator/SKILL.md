@@ -8,6 +8,14 @@ license: Complete terms in LICENSE.txt
 
 This skill provides guidance for creating effective skills.
 
+## When to Use
+
+- Creating a new skill for Claude Code
+- Updating or improving existing skills
+- Understanding skill structure & best practices
+- Adding specialized workflows or domain knowledge
+- Commands: `/create-skill`, `/skill`
+
 ## About Skills
 
 Skills are modular, self-contained packages that extend Claude's capabilities by providing

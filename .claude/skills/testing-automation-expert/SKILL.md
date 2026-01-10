@@ -8,6 +8,15 @@ author: George Khananaev
 
 Master production-grade testing strategies for Python and TypeScript applications. QA Architect level - design test ecosystems that scale.
 
+## When to Use
+
+- Designing test strategies for features/projects
+- Setting up pytest, Jest, Vitest, or Playwright
+- Improving test coverage and quality
+- Contract testing, accessibility, mutation testing
+- CI/CD test pipeline optimization
+- Test architecture review or refactoring
+
 ## Triggers
 
 - `/test-plan` - Design test strategy for a feature/project

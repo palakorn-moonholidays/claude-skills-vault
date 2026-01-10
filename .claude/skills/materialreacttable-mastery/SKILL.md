@@ -8,6 +8,16 @@ author: George Khananaev
 
 Build production-grade data tables w/ MRT V3 (TanStack Table V8 + MUI).
 
+## When to Use
+
+- Building data tables with MUI styling
+- Server-side pagination/filtering/sorting
+- CRUD editing (inline, modal, cell, table)
+- Large dataset virtualization (10k+ rows)
+- Complex filtering (date range, multi-select, faceted)
+- Migrating between MRT versions (V1→V2→V3)
+- MUI v7 compatibility issues
+
 ## Triggers
 
 - `/mrt-init` - Initialize MRT setup w/ dependencies

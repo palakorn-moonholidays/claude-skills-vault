@@ -7,6 +7,14 @@ description: Efficiently navigate codebase documentation during Research phase. 
 
 Navigate codebase documentation efficiently by checking known doc locations first, before resorting to grep/glob searches.
 
+## When to Use
+
+- Finding architectural decisions (ADRs)
+- Locating feature specs or API docs
+- Researching codebase before implementation
+- Suggesting documentation structure for new projects
+- Alternative to grep/glob for doc discovery
+
 ## Quick Start
 
 1. Check for docs directory at project root

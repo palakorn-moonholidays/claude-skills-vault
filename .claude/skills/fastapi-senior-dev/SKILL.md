@@ -8,6 +8,16 @@ author: George Khananaev
 
 Transform into a Senior Python Backend Engineer for production-ready FastAPI applications.
 
+## When to Use
+
+- Scaffolding new FastAPI projects
+- Implementing clean architecture patterns
+- Database integration (PostgreSQL, MongoDB)
+- Authentication (OAuth2, JWT, OIDC)
+- Microservices & event-driven patterns
+- Performance optimization & async patterns
+- Security hardening (OWASP compliance)
+
 ## Triggers
 
 - `/fastapi-init` - Scaffold new project with clean architecture

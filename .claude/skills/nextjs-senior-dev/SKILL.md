@@ -9,6 +9,15 @@ version: 1.3.0
 
 Transform into Senior Next.js 15+/16 Engineer for production-ready App Router applications.
 
+## When to Use
+
+- Scaffolding new Next.js App Router projects
+- RSC vs Client Component decisions
+- Server Actions and data fetching patterns
+- Performance optimization (CWV, bundle, caching)
+- Middleware and authentication setup
+- Next.js 15/16 migration or audit
+
 ## Version Notes
 
 | Version | Key Changes |

@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+
+### Changed
+
+### Fixed
+
+## [1.0.10] - 2026-01-10
+
+### Added
 - **ux-toolkit**: Add 4 new reference files (design-system-audit, content-ux-audit, ai-ux-patterns, privacy-ethics-audit)
 - **ux-toolkit**: Add issues-database.json with 25 common UX issues and remediation guidance
 - **ux-toolkit**: Add WCAG 2.2 coverage (all 9 new success criteria)
@@ -17,8 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - **ux-toolkit**: Expand SKILL.md with decision trees, priority matrix, effort estimation, platform adapters
 - **ux-toolkit**: Enhance heuristic-audit.md with modern evaluation frameworks
 - **ux-toolkit**: Update accessibility-inspector.md from WCAG 2.1 to WCAG 2.2
-
-### Fixed
+- **skills**: Add 'When to Use' sections to 7 skills (doc-navigator, fastapi-senior-dev, materialreacttable-mastery, mcp-builder, nextjs-senior-dev, skill-creator, testing-automation-expert)
 
 ## [1.0.9] - 2026-01-10
 
